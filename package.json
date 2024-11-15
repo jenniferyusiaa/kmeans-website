@@ -3,9 +3,8 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
-        "build": "vite build --output public",
-        "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-        "preview": "vite preview"
+        "build": "vite build",
+        "serve": "vite preview"
     },
     "devDependencies": {
         "@tailwindcss/forms": "^0.5.2",
