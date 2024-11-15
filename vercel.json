@@ -14,7 +14,7 @@
         }
     ],
     "env": {
-        "APP_URL": "https://kmeans-website-pef1.vercel.app",
+        "APP_URL": "https://kmeans-website-pef1-pg94ipy7f-keyshaards-projects.vercel.app",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
